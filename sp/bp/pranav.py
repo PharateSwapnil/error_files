@@ -1,2 +1,8 @@
+from dipak import square
+
 def func():
-    print(variable)
+    a = square() +6
+    return a
+
+a = func()
+print(a)
