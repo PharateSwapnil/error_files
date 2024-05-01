@@ -1,5 +1,3 @@
-def func():
-    return "Hello, World!" + 5
-
-a = func()
-a
+def square():
+    x = 5
+    x.append(10)
